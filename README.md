@@ -32,8 +32,6 @@ From our Client Virtual Machine, I attempted to ping "mainframe" in Powershell, 
 <p>
   ![Screenshot (2) client](https://github.com/user-attachments/assets/05cbd4a7-b8e5-4d90-a798-2859e93d6509)
   ![Screenshot (3) client](https://github.com/user-attachments/assets/406688e4-f4d4-48e9-86fb-2a6c73847c90)
-  ![Screenshot (3) client](https://github.com/user-attachments/assets/d9f7d23a-5901-4d96-a7fe-40d9565e82bd)
-
 </p>
 
 <p>
