@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+![azure-dns](https://github.com/user-attachments/assets/2ba0d6fe-8a65-4ae7-aa3b-9e7f82bdbcf7)
+
 </p>
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
