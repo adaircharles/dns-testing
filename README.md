@@ -22,7 +22,7 @@ This tutorial outlines the implementation of DNS Commands to interact with multi
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-  ![Screenshot (1) client](https://github.com/adaircharles/dns-testing/blob/main/Screenshot%20(1)%20client.png?raw=true)
+  ![Screenshot (1) client](Screenshot (1) client.png)
 </p>
 <p>
 From our Client Virtual Machine, I attempted to ping "mainframe" in Powershell, after our VM checked it's Local DNS Cache, Local Host File, and finally it's DNS server, it could not find the host. This is because we did not create "mainframe" yet.
