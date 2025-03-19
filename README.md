@@ -1,7 +1,5 @@
-<p align="center">
-![azure-dns](https://github.com/user-attachments/assets/2ba0d6fe-8a65-4ae7-aa3b-9e7f82bdbcf7)
+![azure-dns](https://github.com/user-attachments/assets/3bf8286f-4575-4b62-998e-8ce1f529d5d7)
 
-</p>
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
