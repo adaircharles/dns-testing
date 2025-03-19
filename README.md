@@ -1,5 +1,5 @@
 <p align="center">
-  ![azure-dns](https://github.com/user-attachments/assets/3bf8286f-4575-4b62-998e-8ce1f529d5d7)
+  <![azure-dns](https://github.com/user-attachments/assets/3bf8286f-4575-4b62-998e-8ce1f529d5d7)>
 </p>
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
